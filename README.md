@@ -1,1 +1,1 @@
-# Glupiec
+# Pierwsza gra karciana - durak
